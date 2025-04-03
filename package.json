@@ -1,7 +1,7 @@
 {
-  "name": "@rbxts/my-package",
+  "name": "@rbxts/hsm",
   "version": "1.0.0",
-  "description": "My package description",
+  "description": "Hierarchal state machine class for Roblox",
   "author": "me",
   "main": "out/init.lua",
   "scripts": {
@@ -13,7 +13,11 @@
   },
   "keywords": [
     "roblox",
-    "rbxts"
+    "rbxts",
+    "hsm",
+    "state",
+    "machine",
+    "hierarchal"
   ],
   "repository": {
     "type": "git",
@@ -30,9 +34,9 @@
   },
   "devDependencies": {
     "@rbxts/compiler-types": "^3.0.0-types.0",
-    "@rbxts/types": "^1.0.813",
+    "@rbxts/types": "^1.0.845",
+    "node": "^20.19.0",
     "roblox-ts": "^3.0.0",
-    "typescript": "=5.5.3",
-    "node": "^20.19.0"
+    "typescript": "=5.5.3"
   }
 }
