@@ -1,6 +1,6 @@
 {
   "name": "@rbxts/hsm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hierarchal state machine class for Roblox",
   "author": "me",
   "main": "out/init.lua",
@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/me/my-repo.git"
+    "url": "git+https://github.com/R-unic/hierarchal-state-machine.git"
   },
   "license": "ISC",
   "types": "out/index.d.ts",
